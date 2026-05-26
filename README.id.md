@@ -3,16 +3,12 @@
 </p>
 
 <p align="center">
-  <img src="assets/00_DESIGN_SYSTEM.png" alt="AIyeah Banner" width="100%" />
+  <img src="assets/01_BANNER_LIGHT.png" alt="AIyeah Banner" width="100%" />
 </p>
 
 <p align="center">
-  <img src="assets/logo.png" alt="Logo AIyeah" height="64" />
-  &nbsp;&nbsp;
-  <img src="assets/appicon.png" alt="Ikon Aplikasi AIyeah" height="64" />
+  <img src="assets/04_LOGO_HORIZONTAL.png" alt="Logo AIyeah" height="64" />
 </p>
-
-<h1 align="center">AIyeah</h1>
 
 <p align="center">
   <strong>"The AI that's always there."</strong>
