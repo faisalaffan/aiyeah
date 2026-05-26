@@ -44,6 +44,17 @@ AIyeah dibangun di atas ide sederhana: tools AI harus terasa seperti figur yang 
 
 Baca panduan merek lengkap di [docs/BRAND.md](docs/BRAND.md).
 
+## Yang Kami Bangun
+
+AIyeah adalah **platform AI modular** — lapisan integrasi yang memilih tools terbaik per kategori dan mengeksposnya melalui antarmuka yang seragam. Dua surface, satu platform:
+
+- **API / SDK** — komposisi kemampuan AI secara programatik
+- **Web UI** — jalankan workflow AI tanpa menulis kode
+
+Modul inti: Model Gateway, RAG Engine, Agent Runner, Document AI, Memory System, Text-to-SQL, dan Observability — semuanya provider-agnostic dan observable secara default.
+
+→ [PRD Lengkap](docs/PRD.md)
+
 ## Memulai
 
 > Dokumentasi dan panduan setup segera hadir.

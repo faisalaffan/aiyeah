@@ -44,6 +44,17 @@ AIyeah was built on a simple idea: AI tools should feel like a trusted figure �
 
 Read the full brand guidelines in [docs/BRAND.md](docs/BRAND.md).
 
+## What We're Building
+
+AIyeah is a **modular AI platform** — an integration layer that picks the best tools per category and exposes them through a unified interface. Two surfaces, one platform:
+
+- **API / SDK** — compose AI capabilities programmatically
+- **Web UI** — run AI workflows without writing code
+
+Core modules: Model Gateway, RAG Engine, Agent Runner, Document AI, Memory System, Text-to-SQL, and Observability — all provider-agnostic and observable by default.
+
+→ [Full PRD](docs/PRD.md)
+
 ## Getting Started
 
 > Documentation and setup guide coming soon.
